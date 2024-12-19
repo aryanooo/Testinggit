@@ -9,6 +9,8 @@ public class Testinggit {
         int b = scan.nextInt();
         System.out.println(a+b);
         System.out.println(a*b);
+        System.out.println(a/b);
+        System.out.println(a-b);
 
 
     }
