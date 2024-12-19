@@ -12,6 +12,9 @@ public class Testinggit {
         System.out.println(a/b);
         System.out.println(a-b);
         System.out.println("hello");
+        System.out.println(a-b);
+        System.out.println(a-b);
+        System.out.println(a-b);
 
 
 
